@@ -69,7 +69,7 @@ If you use this software for your research, please cite it as follows:
 
 @software{ipa-phoneme-syllable-counter,
   author       = {Bilgin, Mustafa},
-  title        = {IPA Phoneme & Syllable Counter},
+  title        = {IPA Phoneme & Syllable Counter: A Python Tool for Phonological Analysis of Child Language Data Latest},
   year         = {2026},
   publisher    = {Zenodo},
   version      = {1.0.0},
@@ -78,3 +78,6 @@ If you use this software for your research, please cite it as follows:
 }
 
 ```
+
+## Acknowledgements
+This repository is the result of an ongoing collaboration with colleagues who brought the right research questions and data to the table. I specifically want to thank Birgit, who provided the initial impulse for many of these features. Her linguistic and methodological questions shaped the conceptual foundation of this tool, while the code and implementation are my own. I am very grateful for this teamwork. It reminds me that code is ultimately just a medium to answer real-world questions – not the other way around.
