@@ -62,7 +62,7 @@ Copyright (c) 2026 Mustafa Bilgin
 If you use this software for your research, please cite it as follows:
 
 **APA Format:**
-> Bilgin, M. (2026). *IPA Phoneme & Syllable Counter* (Version 1.3.1) [Computer software]. Zenodo. https://doi.org/xxxxx/zenodo.xxxxx
+> Bilgin, M. (2026). *IPA Phoneme & Syllable Counter* (Version 1.3.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.19138813 
 
 **BibTeX:**
 ```bibtex
@@ -73,8 +73,8 @@ If you use this software for your research, please cite it as follows:
   year         = {2026},
   publisher    = {Zenodo},
   version      = {1.0.0},
-  doi          = {xxxxx/zenodo.xxxxxx},
-  url          = {https://doi.org/xxxxx/zenodo.xxxx}
+  doi          = {10.5281/zenodo.19138813},
+  url          = {https://doi.org/10.5281/zenodo.19138813}
 }
 
 ```
