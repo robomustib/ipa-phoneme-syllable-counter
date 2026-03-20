@@ -50,7 +50,7 @@ Diphthongs (aɪ, aʊ, ɔʏ, oɪ, ɔø, ʏø) are counted as single syllables.
 Every vowel counts as one syllable (no diphthongs in Turkish).
 
 ## Flowchart
-<img src="https://github.com/robomustib/gladia_batch_transcriber/blob/main/img/flowchart.svg" alt="Flowchart of Gladia Batch Transcriber" width="50%"/>
+<img src="https://raw.githubusercontent.com/robomustib/ipa-phoneme-syllable-counter/2b140135c233908d91c858e981568151c19e58c6/img/flowchartipa.svg" alt="Flowchart of the IPA Phoneme & Syllable Counter" width="80%"/>
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
 **Note:** You are free to share and adapt the material for non-commercial purposes, provided you give appropriate credit. Commercial use is not permitted without prior consent. For details, see the [LICENSE](LICENSE) file.
